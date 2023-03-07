@@ -1,0 +1,23 @@
+# Q.uinino_origin_and_destiny
+Website for customers to choose the codes of the cities of origin and destination, the call time in minutes and choose the FaleMais plan.
+
+A empresa de telefonia Q.uinino, especializada em chamadas de longa distância nacional, vai 
+colocar um novo produto no mercado chamado FaleMais. 
+Normalmente um cliente Q.uinino pode fazer uma chamada de uma cidade para outra 
+pagando uma tarifa fixa por minuto, com o preço sendo pré-definido em uma lista com os 
+códigos DDDs de origem e destino: 
+
+![image](https://user-images.githubusercontent.com/74147833/223441806-5cb1a6f3-43bd-4510-9209-9a1a1c560fe0.png)
+
+Com o novo produto FaleMais da Q.uinino o cliente adquire um plano e pode falar de graça 
+até um determinado tempo (em minutos) e só paga os minutos excedentes. Os minutos 
+excedentes tem um acréscimo de 10% sobre a tarifa normal do minuto. Os planos são 
+FaleMais 30 (30 minutos), FaleMais 60 (60 minutos) e FaleMais 120 (120 minutos). 
+A Q.uinino, preocupada com a transparência junto aos seus clientes, quer disponibilizar uma 
+página na web onde o cliente pode calcular o valor da ligação. Ali, o cliente pode escolher os 
+códigos das cidades de origem e destino, o tempo da ligação em minutos e escolher qual o 
+plano FaleMais. O sistema deve mostrar dois valores: (1) o valor da ligação com o plano e (2) 
+sem o plano. O custo inicial de aquisição do plano deve ser desconsiderado para este 
+problema.
+
+![image](https://user-images.githubusercontent.com/74147833/223442233-42af1389-8fb0-451c-a0e0-8132a4f63159.png)
